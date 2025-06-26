@@ -58,10 +58,14 @@ The California Housing dataset contains 20,640 instances and 8 features:
 
 ##  Visual Output
 
-**Actual Prices vs Predicted Prices (Training Set)**  
-![Plot](https://via.placeholder.com/600x300.png?text=Actual+vs+Predicted+Scatter+Plot)
+## 📈 Visual Output
 
----
+## 📈 Visual Output
+
+**Actual Prices vs Predicted Prices (Training Set)**  
+[View the plot here](https://raw.githubusercontent.com/pramoduppoor07/House_Price_Prediction/main/actual_vs_predicted.png)
+
+
 
 ##  How to Run This Project
 
@@ -82,14 +86,14 @@ The California Housing dataset contains 20,640 instances and 8 features:
  📄 requirements.txt                        # Python dependencies
 
 
-## 📚 Future Improvements
+##  Future Improvements
 
-- 🔧 Add hyperparameter tuning using [`GridSearchCV`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html ) or [Optuna](https://optuna.org/ )
-- 🌐 Deploy the model using [Flask](https://flask.palletsprojects.com/ ) or [Streamlit](https://streamlit.io/ ) as a web app
-- 📊 Visualize feature importance for model interpretability using tools like SHAP or built-in XGBoost functions
-- 🧪 Add cross-validation to improve model robustness using `cross_val_score` or `KFold`
+-  Add hyperparameter tuning using [`GridSearchCV`](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html ) or [Optuna](https://optuna.org/ )
+-  Deploy the model using [Flask](https://flask.palletsprojects.com/ ) or [Streamlit](https://streamlit.io/ ) as a web app
+-  Visualize feature importance for model interpretability using tools like SHAP or built-in XGBoost functions
+-  Add cross-validation to improve model robustness using `cross_val_score` or `KFold`
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [Scikit-learn California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html )
 - [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/ )
