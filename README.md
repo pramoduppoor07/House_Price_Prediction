@@ -69,8 +69,8 @@ The California Housing dataset contains 20,640 instances and 8 features:
 
 1. Clone the repository:
    ```bash
-   git clonehttps://github.com/pramoduppoor07/california-house-price-prediction.git  
-   cd california-house-price-prediction
+   git clone https://github.com/pramoduppoor07/House_Price_Prediction.git  
+   cd House_Price_Prediction
 
 2. Run the Jupyter Notebook:
    ````bash
