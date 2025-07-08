@@ -63,7 +63,7 @@ The California Housing dataset contains 20,640 instances and 8 features:
 **Actual Prices vs Predicted Prices (Training Set)**  
 [View the plot here](https://raw.githubusercontent.com/pramoduppoor07/House_Price_Prediction/main/actual_vs_predicted.png)
 
-
+---
 
 ##  How to Run This Project
 
@@ -76,6 +76,7 @@ The California Housing dataset contains 20,640 instances and 8 features:
    ````bash
    jupyter notebook
 
+---
 
 ##  Future Improvements
 
@@ -83,6 +84,8 @@ The California Housing dataset contains 20,640 instances and 8 features:
 -  Deploy the model using [Flask](https://flask.palletsprojects.com/ ) or [Streamlit](https://streamlit.io/ ) as a web app
 -  Visualize feature importance for model interpretability using tools like SHAP or built-in XGBoost functions
 -  Add cross-validation to improve model robustness using `cross_val_score` or `KFold`
+  
+---
 
 ##  Acknowledgements
 
