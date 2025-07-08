@@ -34,7 +34,7 @@ The California Housing dataset contains 20,640 instances and 8 features:
 
 ---
 
-## 🔧 Tech Stack & Libraries Used
+##  Tech Stack & Libraries Used
 
 - **Python**
 - **Pandas**, **NumPy** – Data manipulation
@@ -58,7 +58,7 @@ The California Housing dataset contains 20,640 instances and 8 features:
 
 
 
-## 📈 Visual Output
+##  Visual Output
 
 **Actual Prices vs Predicted Prices (Training Set)**  
 [View the plot here](https://raw.githubusercontent.com/pramoduppoor07/House_Price_Prediction/main/actual_vs_predicted.png)
